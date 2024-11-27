@@ -4,6 +4,6 @@
 1. Убедитесь, что у вас установлен Python 3.6 или выше.
 2. Клонируйте репозиторий https://github.com/PNAleksandrov/EM_testcase
 3. Активируйте виртуальное окружение source .venv/bin/activate (для linux)
-4. В корневой папке запустите команду  `pytest test_library.py`
+4. В корневой папке запустите команду  `pytest tests/test_lib.py`
 5. После теста в корневой папке запустите команду `python main.py`
 6. Наслаждайтесь использованием.
